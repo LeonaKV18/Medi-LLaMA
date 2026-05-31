@@ -4,14 +4,6 @@
 
 `medi-LLaMA` is a medical-domain language model fine-tuning project built around supervised instruction tuning and preference optimization. The project uses a small LLaMA base model and MedCRAFT medical datasets to evaluate whether fine-tuning improves medical question-answering quality, factual relevance, and response alignment.
 
-## Results
-
-| Model | BLEU ↑ | BERTScore F1 ↑ | Val Loss ↓ |
-|---|---|---|---|
-| Base TinyLlama | 1.117 | 0.779 | — |
-| SFT Trial 5 | **3.339** | 0.829 | 1.330 |
-| DPO Trial 5 ⭐ | 3.009 | **0.856** | **0.463** |
-
 ## Project Overview
 The repository contains a complete fine-tuning and evaluation pipeline for a small medical QA assistant. It includes dataset preparation, baseline evaluation, supervised fine-tuning, preference fine-tuning, and comparison of model outputs using automatic evaluation metrics.
 

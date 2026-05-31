@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Chronic Disease",
+    "question": "What are the early warning signs of Type 2 diabetes and how is it diagnosed?",
+    "gold_answer": "Early warning signs of type 2 diabetes can be subtle and include increased thirst, frequent urination, fatigue, blurred vision, slow-healing cuts/infections, tingling or numbness in the feet/hands, and sometimes unexplained weight loss. Mechanistically, insulin resistance keeps glucose in the blood instead of moving it efficiently into cells, causing high blood sugar and osmotic fluid loss through urine.\n\nDiagnosis is made with blood tests: HbA1c \u2265 6.5%, fasting plasma glucose \u2265 126 mg/dL, 2-hour OGTT glucose \u2265 200 mg/dL, or random glucose \u2265 200 mg/dL with classic symptoms; in people without clear symptoms, abnormal results are usually confirmed with repeat testing."
+  },
+  {
+    "id": 2,
+    "category": "Pharmacology",
+    "question": "What is the mechanism of action of metformin and why is it the first-line treatment for Type 2 diabetes?",
+    "gold_answer": "Metformin mainly reduces hepatic gluconeogenesis and improves peripheral insulin sensitivity, partly through effects on cellular energy metabolism/AMPK pathways; it lowers glucose without directly stimulating insulin secretion, so hypoglycemia risk is low. It is historically first-line for type 2 diabetes because it is effective, inexpensive, weight-neutral or modestly weight-reducing, generally safe, and has long clinical experience. Current guidelines increasingly individualize first therapy\u2014especially adding or prioritizing GLP-1 receptor agonists or SGLT2 inhibitors in patients with cardiovascular, kidney, heart failure, or obesity-related indications\u2014but metformin remains a common foundation when tolerated and not contraindicated."
+  },
+  {
+    "id": 3,
+    "category": "Emergency Medicine",
+    "question": "What are the differences between ischemic and hemorrhagic stroke, and what are the emergency treatment options for each?",
+    "gold_answer": "An ischemic stroke is caused by arterial blockage, cutting off blood flow and oxygen to brain tissue; emergency treatment focuses on reperfusion with IV thrombolysis such as alteplase/tenecteplase when eligible, and mechanical thrombectomy for selected large-vessel occlusions. A hemorrhagic stroke is caused by bleeding into or around the brain, causing mass effect, raised intracranial pressure, and toxic blood injury; treatment focuses on stopping bleeding and limiting expansion with rapid blood-pressure control, reversal of anticoagulants/antiplatelet effects when appropriate, neurosurgical/endovascular intervention for selected bleeds or aneurysms, and intracranial-pressure management. Because treatments differ sharply, suspected stroke requires urgent brain imaging\u2014usually non-contrast CT\u2014to distinguish ischemia from hemorrhage before giving clot-busting therapy."
+  },
+  {
+    "id": 4,
+    "category": "Pathophysiology",
+    "question": "How does chronic hypertension damage the kidneys over time, and what lifestyle changes can slow this progression?",
+    "gold_answer": "Chronic hypertension damages the kidneys by keeping pressure high inside small renal arteries and glomeruli, causing vessel wall thickening, scarring, reduced filtration, and protein leakage; over time this can progress to chronic kidney disease. The key way to slow progression is tight blood pressure control, usually with prescribed medications plus lifestyle changes. Helpful changes include lower sodium intake/DASH-style diet, weight control, regular physical activity, quitting smoking, limiting alcohol, managing stress, and controlling diabetes if present. Sodium reduction is especially important because high salt intake raises blood pressure and further stresses kidney vessels."
+  },
+  {
+    "id": 5,
+    "category": "Pharmacology",
+    "question": "What are the common side effects of statins, and which patient populations require the closest monitoring?",
+    "gold_answer": "Common statin side effects include muscle aches/weakness, mild gastrointestinal symptoms, headache, and transient liver enzyme elevation; rare but serious effects are myopathy/rhabdomyolysis, clinically significant liver injury, and a small increase in blood glucose/diabetes risk. Patients needing closest monitoring are those on high-dose statins, older/frail patients, people with kidney or liver disease, hypothyroidism, prior muscle disease/statin intolerance, heavy alcohol use, or interacting drugs such as fibrates, cyclosporine, macrolides, azole antifungals, protease inhibitors, and some CYP3A4/OATP inhibitors. CK is generally checked when muscle symptoms occur, while liver enzymes are checked at baseline and if symptoms suggest hepatotoxicity"
+  },
+  {
+    "id": 6,
+    "category": "Cardiology",
+    "question": "Explain the difference between systolic and diastolic heart failure, including their causes and typical clinical presentations.",
+    "gold_answer": "Systolic heart failure\u2014now called HFrEF\u2014means the ventricle is weak and cannot contract effectively, so ejection fraction is reduced, typically \u226440%; common causes include prior myocardial infarction, ischemic heart disease, dilated cardiomyopathy, myocarditis, and toxic injury such as alcohol or chemotherapy. Diastolic heart failure\u2014or HFpEF\u2014means the ventricle is stiff and cannot relax/fill properly, so EF is usually \u226550% despite high filling pressures; it is commonly linked to long-standing hypertension, aging, obesity, diabetes, atrial fibrillation, and left ventricular hypertrophy. Both present with congestion symptoms such as exertional dyspnea, orthopnea, fatigue, pulmonary crackles, edema, and exercise intolerance, but HFrEF often reflects \u201cpump failure,\u201d while HFpEF often presents with symptoms triggered by exertion or hypertension because filling pressures rise quickly."
+  },
+  {
+    "id": 7,
+    "category": "Rheumatology",
+    "question": "What is rheumatoid arthritis, how does it differ pathologically from osteoarthritis, and what are the main treatment approaches?",
+    "gold_answer": "Rheumatoid arthritis is a systemic autoimmune inflammatory arthritis in which immune-mediated synovitis forms pannus that erodes cartilage and bone, usually causing symmetric small-joint pain, swelling, and prolonged morning stiffness. Osteoarthritis is mainly a degenerative/mechanical cartilage disease with cartilage loss, subchondral bone change, and osteophytes, typically worse with use and less systemically inflammatory. RA treatment aims to suppress inflammation and prevent joint destruction: early DMARDs, especially methotrexate when appropriate, escalation to biologic or targeted synthetic DMARDs if needed, short-term NSAIDs or glucocorticoids for symptom control, plus exercise, smoking cessation, vaccines, and monitoring for drug toxicity."
+  },
+  {
+    "id": 8,
+    "category": "Critical Care",
+    "question": "What are the signs and symptoms of sepsis, and describe the Sepsis Hour-1 Bundle protocol used in emergency management?",
+    "gold_answer": "Sepsis is life-threatening organ dysfunction from a dysregulated response to infection; warning signs include fever or hypothermia, tachycardia, tachypnea, confusion, hypotension, reduced urine output, mottled/cool skin, and signs of a source infection. The Surviving Sepsis Campaign Hour-1 Bundle is started immediately: measure lactate and recheck if elevated, obtain blood cultures before antibiotics if this does not delay care, give broad-spectrum IV antibiotics, give 30 mL/kg crystalloid for hypotension or lactate \u22654 mmol/L, and start vasopressors if hypotension persists to maintain MAP \u226565 mmHg. Early management works by rapidly treating infection, restoring perfusion, and preventing shock-related organ failure."
+  },
+  {
+    "id": 9,
+    "category": "Preventive Medicine",
+    "question": "What is the recommended screening schedule for colorectal cancer, and which patients qualify for earlier screening?",
+    "gold_answer": "For average-risk adults, colorectal cancer screening is recommended from age 45 to 75; from 76 to 85, screening is individualized based on health, life expectancy, prior screening, and preferences, and it is generally stopped after 85. Options include annual FIT or high-sensitivity stool blood testing, stool DNA-FIT every 1\u20133 years, CT colonography every 5 years, flexible sigmoidoscopy every 5 years, or colonoscopy every 10 years; any abnormal non-colonoscopy test needs diagnostic colonoscopy. Earlier or more frequent screening is needed for patients with personal history of colorectal cancer or adenomatous polyps, inflammatory bowel disease, family history of colorectal cancer/polyps, hereditary syndromes such as Lynch syndrome or FAP, or prior abdominal/pelvic radiation."
+  },
+  {
+    "id": 10,
+    "category": "Psychiatry",
+    "question": "How do SSRIs work in treating depression, and what are the key clinical differences between sertraline, fluoxetine, and escitalopram?",
+    "gold_answer": "SSRIs treat depression by blocking the serotonin transporter (SERT), increasing synaptic serotonin; the clinical antidepressant effect usually takes weeks because downstream receptor, circuit, and neuroplastic changes matter more than the immediate serotonin rise. Sertraline is a balanced, commonly used SSRI with a ~26-hour half-life and is often favored when cardiac comorbidity or broad anxiety coverage matters; GI upset/diarrhea is relatively common. Fluoxetine is more activating, has a very long half-life with active norfluoxetine, so it causes fewer discontinuation symptoms but more prolonged drug interactions and is a stronger CYP2D6 inhibitor. Escitalopram is often well tolerated with relatively few CYP interactions, but dose caution is needed in older adults/hepatic impairment and in patients at risk for QT prolongation."
+  }
+]
